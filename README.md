@@ -7,15 +7,11 @@ It's great to see you landing on this page. It means we, at rakun, believe in yo
 
 We would like you to build a contact form that will collect the following data:
 
-Name:
-
-Last Name:
-
-Email: 
-
-Phone:
-
-Photo: 
+- Name:
+- Last Name:
+- Email: 
+- Phone:
+- Photo: 
 
 And store it to [firebase](https://firebase.google.com/) `it's free to use`
 
