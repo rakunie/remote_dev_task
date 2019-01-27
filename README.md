@@ -23,7 +23,7 @@ However we expect to see a form functionality that could be used as is for a cli
 
 ### Submision:
 
-You can make a private repo share it with us @ larry@rakun.ie
+You can make a private repo and share it with us @ larry@rakun.ie
 or ZIP your files and send them to info@rakun.ie
 
 If you have any questions you can reach out @ larry@rakun.ie
